@@ -60,3 +60,23 @@ button:hover{
    border: 3px solid #E5EBB2;
    transition-duration: 0.4s;
 }
+
+.footer{
+   margin-top: 18rem;
+   padding: 100px;
+   text-align: center;
+ }
+
+.footer-link{
+ text-decoration: none;
+ font-size: 11px;
+ color: black;
+ font-weight: bolder;
+ font-family: 'Roboto', sans-serif;
+}
+
+.Copyright{
+   color: black;
+   font-size: 11px;
+   padding: 40px 0 0 0;
+ }
